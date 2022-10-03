@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Sreedhar</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Check My Website</description>
+	<lastBuildDate>Wed, 07 Sep 2022 11:03:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Blog Heading6</title>
+		<link>/blog-heading6/</link>
+					<comments>/blog-heading6/#respond</comments>
+		
+		<dc:creator><![CDATA[medfitadmin]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 11:03:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://172.51.0.8/sreedharweb/?p=3915</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-heading6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Heading5</title>
+		<link>/blog-heading5/</link>
+					<comments>/blog-heading5/#respond</comments>
+		
+		<dc:creator><![CDATA[medfitadmin]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 11:03:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://172.51.0.8/sreedharweb/?p=3914</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-heading5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Heading4</title>
+		<link>/blog-heading4/</link>
+					<comments>/blog-heading4/#respond</comments>
+		
+		<dc:creator><![CDATA[medfitadmin]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 11:02:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://172.51.0.8/sreedharweb/?p=3912</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-heading4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Heading3</title>
+		<link>/blog-heading3/</link>
+					<comments>/blog-heading3/#respond</comments>
+		
+		<dc:creator><![CDATA[medfitadmin]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 11:01:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://172.51.0.8/sreedharweb/?p=3910</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-heading3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Heading2</title>
+		<link>/blog-heading2/</link>
+					<comments>/blog-heading2/#respond</comments>
+		
+		<dc:creator><![CDATA[medfitadmin]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 11:00:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://172.51.0.8/sreedharweb/?p=3908</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-heading2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Heading1</title>
+		<link>/blog-heading1/</link>
+					<comments>/blog-heading1/#respond</comments>
+		
+		<dc:creator><![CDATA[medfitadmin]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 10:59:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://172.51.0.8/sreedharweb/?p=3906</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-c668db7 elementor-widget elementor-widget-text-editor" data-id="c668db7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-b9a2c23 elementor-widget elementor-widget-text-editor" data-id="b9a2c23" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog-heading1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
